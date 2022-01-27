@@ -14,5 +14,6 @@ jobs:
       - name: Pull in codepen pens
         uses: gautamkrishnar/blog-post-workflow@master
         with:
+          disable_sort: true
           comment_tag_name: "CODEPEN"
           feed_list: "https://codepen.io/osbulbul/public/feed"
