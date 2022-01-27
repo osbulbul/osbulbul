@@ -8,7 +8,7 @@
 - 🔭 I am currently working on Mobile Games as Indie Developer!
 - 🌱 I worked as WordPress support engineer, QA engineer, and WordPress developer.
 - 👯 I can work with PHP, WordPress, JavaScript, PhaserJS, Svelte, Capacitor, CSS, SASS
-- 🥅 Previously worked at The Mediatix as WordPress Dev, and Incsub as Support/QA Engineer
+- 🧑🏻‍💻 Previously worked at The Mediatix as WordPress Dev, and Incsub as Support/QA Engineer
 - ⚡ Fun fact: I can play any instruments
 
 ### Connect with me:
@@ -22,12 +22,12 @@
 <br />
 
 ---
-### 📕 Latest Codepen Pens
+### 🕹 Latest Codepen Pens
 
 <!-- CODEPEN:START -->
 <!-- CODEPEN:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more pens...](https://codepen.io/osbulbul)
 
 ---
 
