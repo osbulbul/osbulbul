@@ -25,6 +25,11 @@
 ### 📕 Latest Codepen Pens
 
 <!-- CODEPEN:START -->
+- [C64 Style Racing Game](https://codepen.io/osbulbul/pen/aboeqzM)
+- [Pure CSS Physics Engine](https://codepen.io/osbulbul/pen/qdgQrL)
+- [Connect Four with JS](https://codepen.io/osbulbul/pen/GdxEo)
+- [Social Concentration Game](https://codepen.io/osbulbul/pen/EvwAb)
+- [Minesweeper](https://codepen.io/osbulbul/pen/Fbfjh)
 <!-- CODEPEN:END -->
 
 ➡️ [more blog posts...](https://codestackr.com)
