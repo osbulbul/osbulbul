@@ -27,9 +27,9 @@
 <!-- CODEPEN:START -->
 - [C64 Style Racing Game](https://codepen.io/osbulbul/pen/aboeqzM)
 - [Pure CSS Physics Engine](https://codepen.io/osbulbul/pen/qdgQrL)
-- [Connect Four with JS](https://codepen.io/osbulbul/pen/ngJdYy)
-- [Social Concentration Game](https://codepen.io/osbulbul/pen/kdQGLm)
-- [Minesweeper](https://codepen.io/osbulbul/pen/DBwKep)
+- [Connect Four with JS](https://codepen.io/osbulbul/pen/GdxEo)
+- [Social Concentration Game](https://codepen.io/osbulbul/pen/EvwAb)
+- [Minesweeper](https://codepen.io/osbulbul/pen/Fbfjh)
 <!-- CODEPEN:END -->
 
 ➡️ [more pens...](https://codepen.io/osbulbul)
