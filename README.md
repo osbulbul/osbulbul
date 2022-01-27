@@ -46,7 +46,6 @@
 
 ➡️ [more blog posts...](https://osbulbul.com)
 
----
 
 [website]: https://osbulbul.com
 [twitter]: https://twitter.com/osbulbul
