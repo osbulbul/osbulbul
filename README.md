@@ -34,6 +34,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to load local fonts in Phaser 3](https://osbulbul.com/how-to-load-local-fonts-in-phaser-3/)
+- [The Difference Between require, require_once, include, include_once in PHP](https://osbulbul.com/the-difference-between-require-require_once-include-include_once-in-php/)
+- [Hello world!](https://osbulbul.com/hello-world/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://osbulbul.com)
